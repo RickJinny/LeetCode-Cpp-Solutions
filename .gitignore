@@ -1,0 +1,26 @@
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#####################
+# C++ Ignore files #
+#####################
+*.gch
+*.out
+Cmake-build-debug/
+Cmake-build-release/
+
+##########################
+# Jetbrains Ignore files #
+##########################
+*.iml
+.idea/
+
+old/
