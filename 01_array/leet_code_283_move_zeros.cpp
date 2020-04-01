@@ -1,6 +1,3 @@
-//
-// Created by Jinny on 2020/4/1.
-//
 
 #include "leet_code_283_move_zeros.h"
 #include <iostream>
