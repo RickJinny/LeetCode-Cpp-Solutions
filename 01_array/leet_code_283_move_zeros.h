@@ -1,0 +1,14 @@
+//
+// Created by Jinny on 2020/4/1.
+//
+
+#ifndef LEETCODE_CPP_SOLUTIONS_LEET_CODE_283_MOVE_ZEROS_H
+#define LEETCODE_CPP_SOLUTIONS_LEET_CODE_283_MOVE_ZEROS_H
+
+
+class leet_code_283_move_zeros {
+
+};
+
+
+#endif //LEETCODE_CPP_SOLUTIONS_LEET_CODE_283_MOVE_ZEROS_H
